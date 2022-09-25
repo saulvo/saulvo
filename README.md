@@ -19,6 +19,7 @@
 ![typescript](images/typescript.svg)&nbsp;
 ![reactjs](images/reactjs.svg)&nbsp;
 ![nextjs](images/nextjs.svg)&nbsp;
+![astro](images/astro.svg)&nbsp;
 ![redux](images/redux.svg)&nbsp;
 ![zustand](images/zustand.svg)&nbsp;
 ![threejs](images/threejs.svg)&nbsp;
