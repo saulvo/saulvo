@@ -35,6 +35,14 @@
 ![vscode](images/vscode.svg)&nbsp;
 ![neovim](images/neovim.svg)&nbsp;
 
+### <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center" style="display:flex">
+  <img style="flex: 1" src = "https://github-readme-stats.vercel.app/api?username=duongductrong&show_icons=true&theme=radical&line_height=27">
+  <img style="margin-left: 10px; flex: 1; height: 100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=duongductrong&hide=css,html&theme=radical&layout=compact">
+</p>
+
+
 ![Metrics](/github-metrics.svg)
 
 ## 🔭 Where to find me
