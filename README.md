@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="width: 30%;">
+    <td width="30%">
       <a href="https://app.daily.dev/saulvo"><img src="https://api.daily.dev/devcards/b0b053363b0c47c5bd34081645e517a7.png?r=yxp" width="400" alt="Saul Vo's Dev Card"/></a>
     </td>
     <td>
