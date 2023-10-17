@@ -20,7 +20,7 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
       - name: Metrics embed
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
