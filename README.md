@@ -36,5 +36,5 @@
 
 ## 🔭 Where to find me
 <a href="https://www.youtube.com/c/saulvo"><img src="images/icon-yt.webp" alt="youtube"/></a>&nbsp;
-<a href="https://t.me/Son_IT"><img src="images/icon-te.webp" alt="telegram"/></a>&nbsp;
+<a href="https://t.me/saulvo_fe"><img src="images/icon-te.webp" alt="telegram"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/saulvo/"><img src="images/icon-linkedin.webp" alt="linkedin"/></a>
