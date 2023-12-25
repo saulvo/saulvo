@@ -9,7 +9,7 @@ Hi there, I'm a Frontend Developer with over 4 years of experience building scal
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [Saul Vo - Homepage](http://saulvo.vercel.app)
 * ✉️  You can contact me at [vtson23597@gmail.com](mailto:vtson23597@gmail.com)
-* 🚀  I'm currently working on [FPT Software](http://(s)fptsoftware.com)
+* 🚀  I'm currently working on [FPT Software](https://fptsoftware.com)
 * 🧠  I'm learning Rust language
 * 🤝  I'm open to collaborating on ReactJS, NextJs
 * ⚡  In my free time, I enjoy being active and creative. I like to ride a motorbike to explore new places or play the guitar with a cup of coffee. Other times, I'm reading or learning a new language or framework.
